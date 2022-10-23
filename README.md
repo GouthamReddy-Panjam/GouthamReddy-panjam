@@ -1,22 +1,13 @@
 ![MasterHead](https://camo.githubusercontent.com/749a704b3ec5df0bb40acc0743194a30d2ba6d6e94179b736e09abe7abcb0350/68747470733a2f2f7777772e696e737069726564627573696e6573736d656469612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30392f5477696c696f2e6a7067)
 <h1 align="center">Hi👋,I'm Goutham</h1>
 <h3 align="center">Aspiring Computer Programmer with a BTech degree with knowledge of recent Tech Stacks</h3>
-<img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gouthamreddy-panjam&label=Profile%20views&color=0e75b6&style=flat" alt="gouthamreddy-panjam" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=gouthamreddy-panjam&label=Profile%20views&color=0e75b6&style=flat" alt="gouthamreddy-panjam" /> </p>
 
 - 🔭 I’m currently working on **teta.so**
-
 - 🌱 I’m currently learning **Flutter**
-
 - 👯 I’m looking to collaborate on **Mobile Application based projects (teta.so) soon...**
-
 - 💬 Ask me about **any details that I am strong enough**
-
 - 📫 How to reach me **gouthamreddypanjam@gmail.com**
-
 - ⚡ Fun fact **Don't mess with DSA.**
 
 <h3 align="left">Connect with me:</h3>
